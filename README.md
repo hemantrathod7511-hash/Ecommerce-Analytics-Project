@@ -127,27 +127,23 @@ The dashboard includes the following KPIs:
 
 ---
 
+
 ## Dashboard Screenshots
 
 ### Executive Overview
-
-screenshots/Executive Overview.png
+![Executive Overview](screenshots/Executive_Overview.png)
 
 ### Sales Analysis
-
-![Sales Analysis](screenshots/Sales Analysis.png)
+![Sales Analysis](screenshots/Sales_Analysis.png)
 
 ### Customer Analysis
-
-![Customer Analysis](screenshots/Customer Analysis.png)
+![Customer Analysis](screenshots/Customer_Analysis.png)
 
 ### Product Analysis
-
-![Product Analysis](screenshots/Product Analysis.png)
+![Product Analysis](screenshots/Product_Analysis.png)
 
 ### Returns Analysis
-
-![Returns Analysis](screenshots/Return Analysis.png)
+![Returns Analysis](screenshots/Returns_Analysis.png)
 
 ---
 
