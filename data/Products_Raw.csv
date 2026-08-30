@@ -1,0 +1,251 @@
+Product_ID,Product_Name,Category,Subcategory,Brand,Cost_Price,Selling_Price
+P0001,NovaTech Smartphones Model 01,Electronics,Smartphones,NovaTech,13433.54,27896.14
+P0002,TechPro Laptops Model 02,Electronics,Laptops,TechPro,24842.15,42790.65
+P0003,SoundMax Headphones Model 03,Electronics,Headphones,SoundMax,3965.34,5976.69
+P0004,Pulse Smart Watches Model 04,Electronics,Smart Watches,Pulse,3534.35,5518.52
+P0005,VisionX Cameras Model 05,Electronics,Cameras,VisionX,27694.11,46210.02
+P0006,Connect Accessories Model 06,Electronics,Accessories,Connect,466.49,960.65
+P0007,UrbanWear Men's Clothing Model 07,Clothing,Men's Clothing,UrbanWear,399.31,679.76
+P0008,StyleHub Women's Clothing Model 08,Clothing,Women's Clothing,StyleHub,2098.66,2747.01
+P0009,WalkEasy Footwear Model 09,Clothing,Footwear,WalkEasy,1558.44,2818.65
+P0010,CarryAll Bags Model 10,Clothing,Bags,CarryAll,2122.22,4345.82
+P0011,HomeChef Kitchen Appliances Model 11,Home & Kitchen,Kitchen Appliances,HomeChef,8943.43,16518.94
+P0012,ComfortHome Furniture Model 12,Home & Kitchen,Furniture,ComfortHome,2582.45,4191.25
+P0013,DecorPlus Home Decor Model 13,Home & Kitchen,Home Decor,DecorPlus,3844.05,5247.12
+P0014,GlowCare Skincare Model 14,Beauty,Skincare,GlowCare,366.73,727.7
+P0015,SilkTouch Haircare Model 15,Beauty,Haircare,SilkTouch,1753.42,2369.9
+P0016,FitLife Fitness Model 16,Sports,Fitness,FitLife,2759.33,3643.98
+P0017,TrailPro Outdoor Model 17,Sports,Outdoor,TrailPro,8969.85,11639.28
+P0018,ReadMore Fiction Model 18,Books,Fiction,ReadMore,169.86,334.42
+P0019,KnowledgeHub Non-Fiction Model 19,Books,Non-Fiction,KnowledgeHub,804.1,1114.02
+P0020,EduWorld Academic Model 20,Books,Academic,EduWorld,483.76,911.51
+P0021,NovaTech Smartphones Model 21,Electronics,Smartphones,NovaTech,36880.3,47352.87
+P0022,TechPro Laptops Model 22,Electronics,Laptops,TechPro,62346.93,102878.99
+P0023,SoundMax Headphones Model 23,Electronics,Headphones,SoundMax,2056.18,3696.61
+P0024,Pulse Smart Watches Model 24,Electronics,Smart Watches,Pulse,9944.28,17625.87
+P0025,VisionX Cameras Model 25,Electronics,Cameras,VisionX,14979.6,26417.6
+P0026,Connect Accessories Model 26,Electronics,Accessories,Connect,4086.05,5332.91
+P0027,UrbanWear Men's Clothing Model 27,Clothing,Men's Clothing,UrbanWear,2227.57,3064.18
+P0028,StyleHub Women's Clothing Model 28,Clothing,Women's Clothing,StyleHub,1004.54,1694.99
+P0029,WalkEasy Footwear Model 29,Clothing,Footwear,WalkEasy,2502.45,3430.66
+P0030,CarryAll Bags Model 30,Clothing,Bags,CarryAll,3926.78,5614.13
+P0031,HomeChef Kitchen Appliances Model 31,Home & Kitchen,Kitchen Appliances,HomeChef,9676.4,13583.81
+P0032,ComfortHome Furniture Model 32,Home & Kitchen,Furniture,ComfortHome,14589.16,18847.71
+P0033,DecorPlus Home Decor Model 33,Home & Kitchen,Home Decor,DecorPlus,1570.26,3225.41
+P0034,GlowCare Skincare Model 34,Beauty,Skincare,GlowCare,1398.77,1902.84
+P0035,SilkTouch Haircare Model 35,Beauty,Haircare,SilkTouch,1246.54,2039.02
+P0036,FitLife Fitness Model 36,Sports,Fitness,FitLife,2665.79,3833.63
+P0037,TrailPro Outdoor Model 37,Sports,Outdoor,TrailPro,3370.88,5970.06
+P0038,ReadMore Fiction Model 38,Books,Fiction,ReadMore,217.72,369.06
+P0039,KnowledgeHub Non-Fiction Model 39,Books,Non-Fiction,KnowledgeHub,196.6,311.77
+P0040,EduWorld Academic Model 40,Books,Academic,EduWorld,492.36,725.07
+P0041,NovaTech Smartphones Model 41,Electronics,Smartphones,NovaTech,16740.41,22276.26
+P0042,TechPro Laptops Model 42,Electronics,Laptops,TechPro,51107.79,89247.38
+P0043,SoundMax Headphones Model 43,Electronics,Headphones,SoundMax,940.31,1409.55
+P0044,Pulse Smart Watches Model 44,Electronics,Smart Watches,Pulse,4362.53,9047.53
+P0045,VisionX Cameras Model 45,Electronics,Cameras,VisionX,44939.19,59036.72
+P0046,Connect Accessories Model 46,Electronics,Accessories,Connect,1481.04,2220.59
+P0047,UrbanWear Men's Clothing Model 47,Clothing,Men's Clothing,UrbanWear,2418.27,3330.1
+P0048,StyleHub Women's Clothing Model 48,Clothing,Women's Clothing,StyleHub,2050.66,3348.22
+P0049,WalkEasy Footwear Model 49,Clothing,Footwear,WalkEasy,5767.45,7975.63
+P0050,CarryAll Bags Model 50,Clothing,Bags,CarryAll,943.53,1280.87
+P0051,HomeChef Kitchen Appliances Model 01,Home & Kitchen,Kitchen Appliances,HomeChef,7320.13,12820.65
+P0052,ComfortHome Furniture Model 02,Home & Kitchen,Furniture,ComfortHome,30357.09,39900.07
+P0053,DecorPlus Home Decor Model 03,Home & Kitchen,Home Decor,DecorPlus,2767.85,3912.77
+P0054,GlowCare Skincare Model 04,Beauty,Skincare,GlowCare,1825.56,2596.54
+P0055,SilkTouch Haircare Model 05,Beauty,Haircare,SilkTouch,499.15,763.85
+P0056,FitLife Fitness Model 06,Sports,Fitness,FitLife,5089.06,7073.91
+P0057,TrailPro Outdoor Model 07,Sports,Outdoor,TrailPro,2528.0,4755.59
+P0058,ReadMore Fiction Model 08,Books,Fiction,ReadMore,102.64,132.28
+P0059,KnowledgeHub Non-Fiction Model 09,Books,Non-Fiction,KnowledgeHub,780.88,1248.18
+P0060,EduWorld Academic Model 10,Books,Academic,EduWorld,1585.0,2486.25
+P0061,NovaTech Smartphones Model 11,Electronics,Smartphones,NovaTech,22504.79,37189.28
+P0062,TechPro Laptops Model 12,Electronics,Laptops,TechPro,45220.63,87146.62
+P0063,SoundMax Headphones Model 13,Electronics,Headphones,SoundMax,5221.33,9294.55
+P0064,Pulse Smart Watches Model 14,Electronics,Smart Watches,Pulse,14266.96,21436.95
+P0065,VisionX Cameras Model 15,Electronics,Cameras,VisionX,38215.15,72256.25
+P0066,Connect Accessories Model 16,Electronics,Accessories,Connect,4244.14,5785.62
+P0067,UrbanWear Men's Clothing Model 17,Clothing,Men's Clothing,UrbanWear,1601.41,2300.06
+P0068,StyleHub Women's Clothing Model 18,Clothing,Women's Clothing,StyleHub,659.37,973.3
+P0069,WalkEasy Footwear Model 19,Clothing,Footwear,WalkEasy,666.82,1092.9
+P0070,CarryAll Bags Model 20,Clothing,Bags,CarryAll,3406.93,5297.6
+P0071,HomeChef Kitchen Appliances Model 21,Home & Kitchen,Kitchen Appliances,HomeChef,6002.53,8391.67
+P0072,ComfortHome Furniture Model 22,Home & Kitchen,Furniture,ComfortHome,19169.89,39737.62
+P0073,DecorPlus Home Decor Model 23,Home & Kitchen,Home Decor,DecorPlus,3687.82,4782.2
+P0074,GlowCare Skincare Model 24,Beauty,Skincare,GlowCare,1177.64,1547.38
+P0075,SilkTouch Haircare Model 25,Beauty,Haircare,SilkTouch,527.54,741.29
+P0076,FitLife Fitness Model 26,Sports,Fitness,FitLife,4167.62,6018.03
+P0077,TrailPro Outdoor Model 27,Sports,Outdoor,TrailPro,6035.67,10547.39
+P0078,ReadMore Fiction Model 28,Books,Fiction,ReadMore,426.87,603.26
+P0079,KnowledgeHub Non-Fiction Model 29,Books,Non-Fiction,KnowledgeHub,108.68,181.01
+P0080,EduWorld Academic Model 30,Books,Academic,EduWorld,1151.04,1942.37
+P0081,NovaTech Smartphones Model 31,Electronics,Smartphones,NovaTech,24905.82,35691.07
+P0082,TechPro Laptops Model 32,Electronics,Laptops,TechPro,76709.96,102846.5
+P0083,SoundMax Headphones Model 33,Electronics,Headphones,SoundMax,2134.37,3352.97
+P0084,Pulse Smart Watches Model 34,Electronics,Smart Watches,Pulse,7138.24,9263.22
+P0085,VisionX Cameras Model 35,Electronics,Cameras,VisionX,22873.85,44973.32
+P0086,Connect Accessories Model 36,Electronics,Accessories,Connect,768.03,1394.97
+P0087,UrbanWear Men's Clothing Model 37,Clothing,Men's Clothing,UrbanWear,302.5,628.44
+P0088,StyleHub Women's Clothing Model 38,Clothing,Women's Clothing,StyleHub,622.65,1034.71
+P0089,WalkEasy Footwear Model 39,Clothing,Footwear,WalkEasy,5180.09,6656.09
+P0090,CarryAll Bags Model 40,Clothing,Bags,CarryAll,3847.6,5739.06
+P0091,HomeChef Kitchen Appliances Model 41,Home & Kitchen,Kitchen Appliances,HomeChef,9841.18,15185.77
+P0092,ComfortHome Furniture Model 42,Home & Kitchen,Furniture,ComfortHome,16892.22,33038.53
+P0093,DecorPlus Home Decor Model 43,Home & Kitchen,Home Decor,DecorPlus,4468.59,6532.57
+P0094,GlowCare Skincare Model 44,Beauty,Skincare,GlowCare,2285.29,3742.73
+P0095,SilkTouch Haircare Model 45,Beauty,Haircare,SilkTouch,695.08,1113.32
+P0096,FitLife Fitness Model 46,Sports,Fitness,FitLife,5157.07,8952.51
+P0097,TrailPro Outdoor Model 47,Sports,Outdoor,TrailPro,5715.93,7623.04
+P0098,ReadMore Fiction Model 48,Books,Fiction,ReadMore,596.24,873.42
+P0099,KnowledgeHub Non-Fiction Model 49,Books,Non-Fiction,KnowledgeHub,369.47,608.96
+P0100,EduWorld Academic Model 50,Books,Academic,EduWorld,668.91,944.5
+P0101,NovaTech Smartphones Model 01,Electronics,Smartphones,NovaTech,35189.92,54549.22
+P0102,TechPro Laptops Model 02,Electronics,Laptops,TechPro,28498.64,54791.78
+P0103,SoundMax Headphones Model 03,Electronics,Headphones,SoundMax,4143.98,5978.64
+P0104,Pulse Smart Watches Model 04,Electronics,Smart Watches,Pulse,9914.25,14484.42
+P0105,VisionX Cameras Model 05,Electronics,Cameras,VisionX,28217.32,43103.94
+P0106,Connect Accessories Model 06,Electronics,Accessories,Connect,403.2,649.92
+P0107,UrbanWear Men's Clothing Model 07,Clothing,Men's Clothing,UrbanWear,2270.63,3354.17
+P0108,StyleHub Women's Clothing Model 08,Clothing,Women's Clothing,StyleHub,887.49,1307.73
+P0109,WalkEasy Footwear Model 09,Clothing,Footwear,WalkEasy,2310.87,3153.29
+P0110,CarryAll Bags Model 10,Clothing,Bags,CarryAll,3319.61,6490.38
+P0111,HomeChef Kitchen Appliances Model 11,Home & Kitchen,Kitchen Appliances,HomeChef,1516.41,2300.17
+P0112,ComfortHome Furniture Model 12,Home & Kitchen,Furniture,ComfortHome,13068.68,21316.53
+P0113,DecorPlus Home Decor Model 13,Home & Kitchen,Home Decor,DecorPlus,3581.74,6306.21
+P0114,GlowCare Skincare Model 14,Beauty,Skincare,GlowCare,1713.56,3180.56
+P0115,SilkTouch Haircare Model 15,Beauty,Haircare,SilkTouch,1694.26,2983.29
+P0116,FitLife Fitness Model 16,Sports,Fitness,FitLife,4021.89,6335.88
+P0117,TrailPro Outdoor Model 17,Sports,Outdoor,TrailPro,1343.27,2348.43
+P0118,ReadMore Fiction Model 18,Books,Fiction,ReadMore,478.81,815.31
+P0119,KnowledgeHub Non-Fiction Model 19,Books,Non-Fiction,KnowledgeHub,741.51,1028.66
+P0120,EduWorld Academic Model 20,Books,Academic,EduWorld,1557.26,2840.92
+P0121,NovaTech Smartphones Model 21,Electronics,Smartphones,NovaTech,33633.57,58091.14
+P0122,TechPro Laptops Model 22,Electronics,Laptops,TechPro,46621.75,74368.05
+P0123,SoundMax Headphones Model 23,Electronics,Headphones,SoundMax,7739.54,11218.88
+P0124,Pulse Smart Watches Model 24,Electronics,Smart Watches,Pulse,3149.75,4400.01
+P0125,VisionX Cameras Model 25,Electronics,Cameras,VisionX,25505.93,47689.0
+P0126,Connect Accessories Model 26,Electronics,Accessories,Connect,3771.14,5849.38
+P0127,UrbanWear Men's Clothing Model 27,Clothing,Men's Clothing,UrbanWear,1702.94,2661.22
+P0128,StyleHub Women's Clothing Model 28,Clothing,Women's Clothing,StyleHub,1084.22,1680.31
+P0129,WalkEasy Footwear Model 29,Clothing,Footwear,WalkEasy,2449.2,4434.49
+P0130,CarryAll Bags Model 30,Clothing,Bags,CarryAll,1335.16,2190.02
+P0131,HomeChef Kitchen Appliances Model 31,Home & Kitchen,Kitchen Appliances,HomeChef,844.13,1107.1
+P0132,ComfortHome Furniture Model 32,Home & Kitchen,Furniture,ComfortHome,2567.92,4878.75
+P0133,DecorPlus Home Decor Model 33,Home & Kitchen,Home Decor,DecorPlus,3317.81,5780.57
+P0134,GlowCare Skincare Model 34,Beauty,Skincare,GlowCare,358.28,700.56
+P0135,SilkTouch Haircare Model 35,Beauty,Haircare,SilkTouch,1333.28,1820.38
+P0136,FitLife Fitness Model 36,Sports,Fitness,FitLife,2064.11,4144.42
+P0137,TrailPro Outdoor Model 37,Sports,Outdoor,TrailPro,1029.95,1433.7
+P0138,ReadMore Fiction Model 38,Books,Fiction,ReadMore,97.37,140.44
+P0139,KnowledgeHub Non-Fiction Model 39,Books,Non-Fiction,KnowledgeHub,698.94,1181.35
+P0140,EduWorld Academic Model 40,Books,Academic,EduWorld,1874.64,2532.88
+P0141,NovaTech Smartphones Model 41,Electronics,Smartphones,NovaTech,21299.17,38332.84
+P0142,TechPro Laptops Model 42,Electronics,Laptops,TechPro,45926.91,60621.68
+P0143,SoundMax Headphones Model 43,Electronics,Headphones,SoundMax,1029.17,1917.18
+P0144,Pulse Smart Watches Model 44,Electronics,Smart Watches,Pulse,2564.77,3802.66
+P0145,VisionX Cameras Model 45,Electronics,Cameras,VisionX,46160.95,81590.12
+P0146,Connect Accessories Model 46,Electronics,Accessories,Connect,1659.08,3053.56
+P0147,UrbanWear Men's Clothing Model 47,Clothing,Men's Clothing,UrbanWear,1376.28,1790.35
+P0148,StyleHub Women's Clothing Model 48,Clothing,Women's Clothing,StyleHub,808.51,1142.29
+P0149,WalkEasy Footwear Model 49,Clothing,Footwear,WalkEasy,3546.13,5635.1
+P0150,CarryAll Bags Model 50,Clothing,Bags,CarryAll,793.51,1449.17
+P0151,HomeChef Kitchen Appliances Model 01,Home & Kitchen,Kitchen Appliances,HomeChef,2615.39,3397.45
+P0152,ComfortHome Furniture Model 02,Home & Kitchen,Furniture,ComfortHome,18901.07,37465.1
+P0153,DecorPlus Home Decor Model 03,Home & Kitchen,Home Decor,DecorPlus,2555.37,5008.63
+P0154,GlowCare Skincare Model 04,Beauty,Skincare,GlowCare,1107.04,2106.55
+P0155,SilkTouch Haircare Model 05,Beauty,Haircare,SilkTouch,1112.01,1754.81
+P0156,FitLife Fitness Model 06,Sports,Fitness,FitLife,5567.51,7996.05
+P0157,TrailPro Outdoor Model 07,Sports,Outdoor,TrailPro,6952.33,9870.9
+P0158,ReadMore Fiction Model 08,Books,Fiction,ReadMore,92.22,160.82
+P0159,KnowledgeHub Non-Fiction Model 09,Books,Non-Fiction,KnowledgeHub,450.9,586.96
+P0160,EduWorld Academic Model 10,Books,Academic,EduWorld,254.4,433.32
+P0161,NovaTech Smartphones Model 11,Electronics,Smartphones,NovaTech,10948.78,18292.68
+P0162,TechPro Laptops Model 12,Electronics,Laptops,TechPro,36364.7,72344.0
+P0163,SoundMax Headphones Model 13,Electronics,Headphones,SoundMax,6959.02,9251.12
+P0164,Pulse Smart Watches Model 14,Electronics,Smart Watches,Pulse,1981.77,2946.38
+P0165,VisionX Cameras Model 15,Electronics,Cameras,VisionX,56104.37,92573.45
+P0166,Connect Accessories Model 16,Electronics,Accessories,Connect,3092.97,5082.1
+P0167,UrbanWear Men's Clothing Model 17,Clothing,Men's Clothing,UrbanWear,618.92,1029.65
+P0168,StyleHub Women's Clothing Model 18,Clothing,Women's Clothing,StyleHub,368.34,518.1
+P0169,WalkEasy Footwear Model 19,Clothing,Footwear,WalkEasy,3207.56,5360.83
+P0170,CarryAll Bags Model 20,Clothing,Bags,CarryAll,1307.92,2117.97
+P0171,HomeChef Kitchen Appliances Model 21,Home & Kitchen,Kitchen Appliances,HomeChef,3650.27,6366.0
+P0172,ComfortHome Furniture Model 22,Home & Kitchen,Furniture,ComfortHome,10565.33,16102.85
+P0173,DecorPlus Home Decor Model 23,Home & Kitchen,Home Decor,DecorPlus,199.48,269.49
+P0174,GlowCare Skincare Model 24,Beauty,Skincare,GlowCare,2430.34,3363.73
+P0175,SilkTouch Haircare Model 25,Beauty,Haircare,SilkTouch,199.29,398.62
+P0176,FitLife Fitness Model 26,Sports,Fitness,FitLife,2790.56,4001.95
+P0177,TrailPro Outdoor Model 27,Sports,Outdoor,TrailPro,2202.16,3437.31
+P0178,ReadMore Fiction Model 28,Books,Fiction,ReadMore,432.94,798.87
+P0179,KnowledgeHub Non-Fiction Model 29,Books,Non-Fiction,KnowledgeHub,110.0,204.02
+P0180,EduWorld Academic Model 30,Books,Academic,EduWorld,1103.63,1622.92
+P0181,NovaTech Smartphones Model 31,Electronics,Smartphones,NovaTech,32839.05,59378.58
+P0182,TechPro Laptops Model 32,Electronics,Laptops,TechPro,52905.34,100040.77
+P0183,SoundMax Headphones Model 33,Electronics,Headphones,SoundMax,5580.9,10523.68
+P0184,Pulse Smart Watches Model 34,Electronics,Smart Watches,Pulse,8901.6,11573.0
+P0185,VisionX Cameras Model 35,Electronics,Cameras,VisionX,54161.54,83131.02
+P0186,Connect Accessories Model 36,Electronics,Accessories,Connect,2425.27,4189.27
+P0187,UrbanWear Men's Clothing Model 37,Clothing,Men's Clothing,UrbanWear,1446.29,2466.76
+P0188,StyleHub Women's Clothing Model 38,Clothing,Women's Clothing,StyleHub,1202.5,2012.4
+P0189,WalkEasy Footwear Model 39,Clothing,Footwear,WalkEasy,412.15,770.99
+P0190,CarryAll Bags Model 40,Clothing,Bags,CarryAll,1814.53,2766.26
+P0191,HomeChef Kitchen Appliances Model 41,Home & Kitchen,Kitchen Appliances,HomeChef,4190.37,5488.76
+P0192,ComfortHome Furniture Model 42,Home & Kitchen,Furniture,ComfortHome,2360.19,3236.07
+P0193,DecorPlus Home Decor Model 43,Home & Kitchen,Home Decor,DecorPlus,4331.51,6377.34
+P0194,GlowCare Skincare Model 44,Beauty,Skincare,GlowCare,1959.48,2915.93
+P0195,SilkTouch Haircare Model 45,Beauty,Haircare,SilkTouch,221.36,427.3
+P0196,FitLife Fitness Model 46,Sports,Fitness,FitLife,2768.77,5327.88
+P0197,TrailPro Outdoor Model 47,Sports,Outdoor,TrailPro,1459.43,2591.49
+P0198,ReadMore Fiction Model 48,Books,Fiction,ReadMore,63.82,105.3
+P0199,KnowledgeHub Non-Fiction Model 49,Books,Non-Fiction,KnowledgeHub,475.87,749.45
+P0200,EduWorld Academic Model 50,Books,Academic,EduWorld,119.65,200.37
+P0201,NovaTech Smartphones Model 01,Electronics,Smartphones,NovaTech,28475.97,53616.52
+P0202,TechPro Laptops Model 02,Electronics,Laptops,TechPro,72844.85,117361.87
+P0203,SoundMax Headphones Model 03,Electronics,Headphones,SoundMax,4858.46,9263.82
+P0204,Pulse Smart Watches Model 04,Electronics,Smart Watches,Pulse,11135.49,19731.12
+P0205,VisionX Cameras Model 05,Electronics,Cameras,VisionX,43643.87,81318.56
+P0206,Connect Accessories Model 06,Electronics,Accessories,Connect,2459.84,4294.28
+P0207,UrbanWear Men's Clothing Model 07,Clothing,Men's Clothing,UrbanWear,2510.7,3923.84
+P0208,StyleHub Women's Clothing Model 08,Clothing,Women's Clothing,StyleHub,2227.99,3464.27
+P0209,WalkEasy Footwear Model 09,Clothing,Footwear,WalkEasy,4053.27,6395.68
+P0210,CarryAll Bags Model 10,Clothing,Bags,CarryAll,2372.46,4795.6
+P0211,HomeChef Kitchen Appliances Model 11,Home & Kitchen,Kitchen Appliances,HomeChef,5940.66,9422.26
+P0212,ComfortHome Furniture Model 12,Home & Kitchen,Furniture,ComfortHome,9796.6,16058.27
+P0213,DecorPlus Home Decor Model 13,Home & Kitchen,Home Decor,DecorPlus,328.5,468.05
+P0214,GlowCare Skincare Model 14,Beauty,Skincare,GlowCare,456.89,640.26
+P0215,SilkTouch Haircare Model 15,Beauty,Haircare,SilkTouch,982.15,1557.55
+P0216,FitLife Fitness Model 16,Sports,Fitness,FitLife,2357.86,3457.02
+P0217,TrailPro Outdoor Model 17,Sports,Outdoor,TrailPro,2353.45,4061.64
+P0218,ReadMore Fiction Model 18,Books,Fiction,ReadMore,238.49,386.01
+P0219,KnowledgeHub Non-Fiction Model 19,Books,Non-Fiction,KnowledgeHub,151.03,285.29
+P0220,EduWorld Academic Model 20,Books,Academic,EduWorld,441.96,594.89
+P0221,NovaTech Smartphones Model 21,Electronics,Smartphones,NovaTech,20699.14,37461.19
+P0222,TechPro Laptops Model 22,Electronics,Laptops,TechPro,55221.9,75300.23
+P0223,SoundMax Headphones Model 23,Electronics,Headphones,SoundMax,4406.28,6483.21
+P0224,Pulse Smart Watches Model 24,Electronics,Smart Watches,Pulse,10614.99,15710.16
+P0225,VisionX Cameras Model 25,Electronics,Cameras,VisionX,57766.16,85803.48
+P0226,Connect Accessories Model 26,Electronics,Accessories,Connect,1415.09,1956.0
+P0227,UrbanWear Men's Clothing Model 27,Clothing,Men's Clothing,UrbanWear,962.52,1432.18
+P0228,StyleHub Women's Clothing Model 28,Clothing,Women's Clothing,StyleHub,2833.17,4509.94
+P0229,WalkEasy Footwear Model 29,Clothing,Footwear,WalkEasy,3659.03,5812.95
+P0230,CarryAll Bags Model 30,Clothing,Bags,CarryAll,544.15,1115.11
+P0231,HomeChef Kitchen Appliances Model 31,Home & Kitchen,Kitchen Appliances,HomeChef,4918.42,8399.41
+P0232,ComfortHome Furniture Model 32,Home & Kitchen,Furniture,ComfortHome,10748.55,16119.4
+P0233,DecorPlus Home Decor Model 33,Home & Kitchen,Home Decor,DecorPlus,2530.03,3830.63
+P0234,GlowCare Skincare Model 34,Beauty,Skincare,GlowCare,1324.88,2417.51
+P0235,SilkTouch Haircare Model 35,Beauty,Haircare,SilkTouch,1641.91,2508.0
+P0236,FitLife Fitness Model 36,Sports,Fitness,FitLife,6380.96,8810.06
+P0237,TrailPro Outdoor Model 37,Sports,Outdoor,TrailPro,4650.65,6899.99
+P0238,ReadMore Fiction Model 38,Books,Fiction,ReadMore,143.9,235.37
+P0239,KnowledgeHub Non-Fiction Model 39,Books,Non-Fiction,KnowledgeHub,139.38,200.96
+P0240,EduWorld Academic Model 40,Books,Academic,EduWorld,560.77,768.99
+P0241,NovaTech Smartphones Model 41,Electronics,Smartphones,NovaTech,42387.93,58039.28
+P0242,TechPro Laptops Model 42,Electronics,Laptops,TechPro,68602.74,117759.47
+P0243,SoundMax Headphones Model 43,Electronics,Headphones,SoundMax,1593.24,2399.54
+P0244,Pulse Smart Watches Model 44,Electronics,Smart Watches,Pulse,14307.17,19559.61
+P0245,VisionX Cameras Model 45,Electronics,Cameras,VisionX,48610.83,74515.8
+P0246,Connect Accessories Model 46,Electronics,Accessories,Connect,2902.9,4495.6
+P0247,UrbanWear Men's Clothing Model 47,Clothing,Men's Clothing,UrbanWear,788.72,1019.28
+P0248,StyleHub Women's Clothing Model 48,Clothing,Women's Clothing,StyleHub,2786.52,4020.6
+P0249,WalkEasy Footwear Model 49,Clothing,Footwear,WalkEasy,5082.39,7529.69
+P0250,CarryAll Bags Model 50,Clothing,Bags,CarryAll,3729.31,5773.31
