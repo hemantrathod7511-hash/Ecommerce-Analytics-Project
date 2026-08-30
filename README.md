@@ -131,7 +131,7 @@ The dashboard includes the following KPIs:
 
 ### Executive Overview
 
-![Executive Overview](screenshots/Executive Overview.png)
+screenshots/Executive Overview.png
 
 ### Sales Analysis
 
